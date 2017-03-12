@@ -22,7 +22,7 @@
             CloseOpenSlice = 6 * 60 * 60
         End If
         'ダウンロード元のURL
-        Dim url As String = "https://www.google.com/finance/getprices?p=10Y&f=d,h,o,l,c,v&i=" & TimeSliceSecond & "x=INDEXNIKKEI&q=NI225"
+        Dim url As String = "https://www.google.com/finance/getprices?p=2Y&f=d,h,o,l,c,v&i=" & TimeSliceSecond & "x=INDEXNIKKEI&q=NI225"
 
 
 

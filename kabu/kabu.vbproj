@@ -103,6 +103,8 @@
     <Compile Include="ShareCertificate.vb" />
     <Compile Include="ShareCertificateList.vb" />
     <Compile Include="StockBuy1.vb" />
+    <Compile Include="StockBuy2.vb" />
+    <Compile Include="StockManager.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">

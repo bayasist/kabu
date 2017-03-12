@@ -12,7 +12,6 @@ Public Class StockBuy1
         End If
         today.Add(Kabu)
 
-
         Dim YesAvg5 As Decimal? = yesterday.CalcAverage(1)
         Dim TodAvg5 As Decimal? = today.CalcAverage(1)
         Dim YesAvg15 As Decimal? = yesterday.CalcAverage(15)
