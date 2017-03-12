@@ -80,6 +80,8 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Graph.vb" />
+    <Compile Include="GraphMovingAverageLine.vb" />
     <Compile Include="KabuBuy.vb" />
     <Compile Include="KabuItem.vb" />
     <Compile Include="KabuList.vb" />
@@ -103,6 +105,8 @@
     <Compile Include="ShareCertificate.vb" />
     <Compile Include="ShareCertificateList.vb" />
     <Compile Include="StockBuy1.vb" />
+    <Compile Include="StockBuy2.vb" />
+    <Compile Include="StockManager.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
